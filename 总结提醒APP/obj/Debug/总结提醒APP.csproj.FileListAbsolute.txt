@@ -1,0 +1,10 @@
+E:\总结提醒APP\总结提醒APP\bin\Debug\总结提醒APP.exe.config
+E:\总结提醒APP\总结提醒APP\bin\Debug\总结提醒APP.exe
+E:\总结提醒APP\总结提醒APP\bin\Debug\总结提醒APP.pdb
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.csprojAssemblyReference.cache
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.该写总结了.resources
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.Properties.Resources.resources
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.csproj.GenerateResource.cache
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.csproj.CoreCompileInputs.cache
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.exe
+E:\总结提醒APP\总结提醒APP\obj\Debug\总结提醒APP.pdb

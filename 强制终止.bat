@@ -1,0 +1,2 @@
+@echo off
+regedit /s /c «ø÷∆÷’÷π.reg
