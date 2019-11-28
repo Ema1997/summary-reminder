@@ -13,16 +13,17 @@
 ##### 使用步骤（Win 10）
 1. 从github下载源代码与程序，链接：https://github.com/Ema1997/summary-reminder.git
 2. 搜索计划任务程序并打开
-<img src="https://img-blog.csdnimg.cn/2019112818221628.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width=50% alt="图片名称" align=center>
+<img src="https://img-blog.csdnimg.cn/2019112818221628.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width=30% alt="图片名称" align=center>
 
 3. 点击创建任务
-<img src="https://img-blog.csdnimg.cn/20191128182952826.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width=50% alt="图片名称" align=center>
+<img src="https://img-blog.csdnimg.cn/20191128182952826.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width=30% alt="图片名称" align=center>
 
 4. 任务配置
 此处名称为写总结。
 <img src="https://img-blog.csdnimg.cn/20191128183917588.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width = 50% alt="图片名称" align=center>
 
 设置触发器，此处设置为了每天晚上21：00执行任务。
+
 <img src="https://img-blog.csdnimg.cn/2019112818463968.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0VtYTE5OTc=,size_16,color_FFFFFF,t_70" width=50% alt="图片名称" align=center>
 
 新建操作，第一个操作是强制停止现在的工作（这个地方有点小trick，微笑）
